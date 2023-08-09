@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+BG.DorgeBuildcon 
 
 Template Name: Gp
 Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
